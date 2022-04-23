@@ -1,5 +1,4 @@
-https://github.com/JesicaValdez/JesicaValdez/issues/1#issue-1212707999
-
+![JesicaValdez](https://user-images.githubusercontent.com/99773283/164782412-d2672f3a-3a6f-499e-976a-605f97817e0e.gif)
 
 ### Hi there 👋
 
