@@ -1,4 +1,4 @@
-![JesicaValdez(7)](https://user-images.githubusercontent.com/95234993/155026237-b1884e44-65d4-4984-8fa9-c8636d385ade.gif)
+https://github.com/JesicaValdez/JesicaValdez/issues/1#issue-1212707999
 
 
 ### Hi there 👋
