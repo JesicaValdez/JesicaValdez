@@ -17,7 +17,6 @@ js
 ### 📫 How to reach me:
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jesicavaldez/)
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jesica.valddez@gmail.com)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-+5491132379004-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitelogo=whatsapp&style=flat&href=https://n9.cl/y7sws)](https://n9.cl/y7sws)
 
 
   <img align= "right" src="https://github-readme-stats.vercel.app/api?username=JesicaValdez&show_icons=true&theme=radical" alt="JesicaValdez Stats" />
