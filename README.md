@@ -2,10 +2,6 @@
 
 ### Hi there 👋 I'm Jesica, nice that you're here.
 
-###
-
-<p align="left">I am a university student in programming, enthusiastic about continuous learning and exploring new technologies. My experience covers a variety of languages and tools that allow me to tackle diverse and challenging projects.</p>
-
 ### 📫 How to reach me:
 
 - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jesicavaldez/)
