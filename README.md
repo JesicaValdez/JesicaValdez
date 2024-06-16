@@ -1,6 +1,15 @@
+<img width=100% botton=50px src="https://github.com/JesicaValdez/JesicaValdez/assets/99773283/a807d467-3afe-43d4-9679-17207bb94c41" />
+
+<br>
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&pause=1000&color=F767EF&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Jesica+;Software+Developer+;nice+that+you're+here)](https://git.io/typing-svg)
 
 
-### Hi there 👋 I'm Jesica, nice that you're here.
+<br>
+<br>
+<br>
 
 ### 📫 How to reach me:
 
@@ -53,3 +62,7 @@
 <p align="left">In addition to my web development skills, I am always looking to expand my skills in other areas of programming. I am motivated by the challenge of learning new technologies and frameworks, and how these can be applied to solve complex problems and create innovative solutions.<br><br>My goal is to grow as a developer and contribute to projects that have a significant impact.<br><br>If you are interested in seeing my work or collaborating on a project, feel free to check out my repositories and contact me, I'm always open to new opportunities and challenges!</p>
 
 ###
+
+<br>
+
+<img width=100% botton=40px src="https://github.com/JesicaValdez/JesicaValdez/assets/99773283/65c35be6-9d94-45ec-9764-14a9c80ed226" />
