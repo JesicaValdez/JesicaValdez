@@ -10,7 +10,16 @@
 
 ### 👋 **About Me**
 
-I’m Jesica, a passionate Software Developer specializing in web development and backend technologies. Driven by curiosity, I am dedicated to solving complex problems and crafting innovative solutions. Currently, I'm enhancing my skills in C# and .NET Framework while exploring advanced database management with SQL Server.
+I’m Jesica, a passionate Software Developer specializing in web development and backend technologies. Driven by curiosity, Software Developer focused on building scalable backend systems with C#/.NET and efficient database architectures.
+
+---
+
+### 🚀 **Featured Projects**
+
+| Project | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **E-commerce - Event Ticketing & Management System** | C#, .NET, SQL Server  | [Demo 🔗](https://github.com/JesicaValdez/TPC_eCommerce_equipo5B) |
+| **Sistema de Gestión** | Java, MySQL, Docker | [Repo 🔗](https://github.com/JesicaValdez/Homebanking-Java-System") |
 
 ---
 
@@ -23,29 +32,29 @@ I’m Jesica, a passionate Software Developer specializing in web development an
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Framework logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET logo" />
+  
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress logo" />
+  
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
 </div>
 
 ---
+### 📊 **GitHub Activity**
 
-### 📈 **GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesicaValdez&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesicaValdez&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JesicaValdez&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+</p>
 
 ---
 
