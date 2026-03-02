@@ -19,7 +19,7 @@ I’m Jesica, a passionate Software Developer specializing in web development an
 | Project | Tech Stack | Link |
 | :--- | :--- | :--- |
 | **E-commerce - Event Ticketing & Management System** | C#, .NET, SQL Server  | [Demo 🔗](https://github.com/JesicaValdez/TPC_eCommerce_equipo5B) |
-| **Sistema de Gestión** | Java, MySQL, Docker | [Repo 🔗](https://github.com/JesicaValdez/Homebanking-Java-System") |
+| **Sistema de Gestión** | Java, MySQL, Docker | [Repo 🔗](https://github.com/JesicaValdez/Homebanking-Java-System) |
 
 ---
 
